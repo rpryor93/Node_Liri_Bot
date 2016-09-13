@@ -1,0 +1,24 @@
+{
+  "name": "node_liri_bot",
+  "version": "1.0.0",
+  "description": "node bot that will allow users to access song, movie and text info",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rpryor93/Node_Liri_Bot.git"
+  },
+  "author": "ronnie pryor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rpryor93/Node_Liri_Bot/issues"
+  },
+  "homepage": "https://github.com/rpryor93/Node_Liri_Bot#readme",
+  "dependencies": {
+    "request": "^2.74.0",
+    "spotify": "^0.3.0",
+    "twitter": "^1.4.0"
+  }
+}
